@@ -1,4 +1,3 @@
-[![MasterHead]("https://www.vecteezy.com/photo/7359956-galaxy-stars-in-the-universe-outside-earth-abstract-graphic-design-wallpaper-card-3d")](https://github.com/jamiecha88)
 <h1 align="center">Hi 👋, I'm Jamie</h1>
 <h3 align="center">A passionate Full-Stack Developer from Rochester, MN</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
