@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jamiecha88](https://github.com/jamiecha88)
+- 👨‍💻 All of my projects are available at [https://jamiecha.netlify.app/)
 
 - 💬 Ask me about **CRUD, MEAN**
 
