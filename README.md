@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/jamiecha88" target="blank"><img src="https://img.shields.io/twitter/follow/jamiecha88?logo=twitter&style=for-the-badge" alt="jamiecha88" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, TypeScript**
 
 - 👨‍💻 All of my projects are available at https://jamiecha.netlify.app/
 
