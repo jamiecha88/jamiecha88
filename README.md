@@ -25,8 +25,6 @@
 
 <p><a href="https://www.buymeacoffee.com/https://buy.stripe.com/eVacPR9NleAFgNO8ww"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buy.stripe.com/eVacPR9NleAFgNO8ww" /></a></p><br> <br>
 
-[![Jamie's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jamiecha88&&theme=xcode)](https://github.com/jamiecha88)
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamiecha88&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jamiecha88" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamiecha88&show_icons=true&locale=en&theme=tokyonight" alt="jamiecha88" /></p>
