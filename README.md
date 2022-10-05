@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Rochester, MN</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9629c92ef789d6a86aa0e862ed02a17a77f112d97b75f9f3d99c5675b7e59b23/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66416e7a7736594b33336a4d777a703577702f67697068792e676966">
 
-<p align="left"> <a href="https://twitter.com/jamiecha88" target="blank"><img src="https://img.shields.io/twitter/follow/jamiecha88?logo=twitter&style=for-the-badge" alt="jamiecha88" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jamiecha88" target="blank"><img src="https://img.shields.io/twitter/follow/jamiecha88?logo=twitter&=for-the-badge" alt="jamiecha88" /></a> </p>
 
 - 🌱 I’m currently learning **React, TypeScript**
 
@@ -23,7 +23,9 @@
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/https://buy.stripe.com/eVacPR9NleAFgNO8ww"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buy.stripe.com/eVacPR9NleAFgNO8ww" /></a></p><br> <br>
+<div class="container-row">
+<p><a href="https://www.buymeacoffee.com/https://buy.stripe.com/eVacPR9NleAFgNO8ww"> 
+<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buy.stripe.com/eVacPR9NleAFgNO8ww" /></a></p><br> <br> </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamiecha88&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jamiecha88" /></p>
 
