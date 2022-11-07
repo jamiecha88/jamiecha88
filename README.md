@@ -24,8 +24,8 @@
 <h3 align="left">Support:</h3>
 
 <div class="container-row">
-<p><a href="https://www.buymeacoffee.com/https://buy.stripe.com/eVacPR9NleAFgNO8ww"> 
-<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buy.stripe.com/eVacPR9NleAFgNO8ww" /></a></p><br> <br> </div>
+<p><a href="https://buy.stripe.com/eVacPR9NleAFgNO8ww"> 
+<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Coffee on Stripe" /></a></p><br> <br> </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamiecha88&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jamiecha88" /></p>
 
