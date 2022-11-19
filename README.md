@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at https://jamiecha.netlify.app/
 
-- 💬 Ask me about **CRUD, MEAN**
+- 💬 Ask me about **CRUD, MERN**
 
 - 📫 How to reach me **chaeunhee98@gmail.com**
 
