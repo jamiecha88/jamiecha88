@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at https://jamiecha.netlify.app/
 
-- 💬 Ask me about **CRUD, MERN**
+- 💬 Ask me about **MERN, Cloud Computing**
 
 - 📫 How to reach me **chaeunhee98@gmail.com**
 
