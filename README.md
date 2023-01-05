@@ -26,7 +26,3 @@
 <div class="container-row">
 <p><a href="https://buy.stripe.com/eVacPR9NleAFgNO8ww"> 
 <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Coffee on Stripe" /></a></p><br> <br> </div>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamiecha88&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jamiecha88" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamiecha88&show_icons=true&locale=en&theme=tokyonight" alt="jamiecha88" /></p>
