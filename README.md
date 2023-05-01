@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jamie👋</h1>
-<h3 align="center">A passionate Full Stack Software Engineer </h3>
+<h3 align="center">Full Stack Software Engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9629c92ef789d6a86aa0e862ed02a17a77f112d97b75f9f3d99c5675b7e59b23/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66416e7a7736594b33336a4d777a703577702f67697068792e676966">
 
 <p align="left"> <a href="https://twitter.com/jamiecha88" target="blank"><img src="https://img.shields.io/twitter/follow/jamiecha88?logo=twitter&=for-the-badge" alt="jamiecha88" /></a> </p>
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at https://jamiecha.netlify.app/
 
-- 💬 Ask me about **MERN, Web3**
+- 💬 Ask me about **MERN, Accessibility**
 
 - 📫 How to reach me **chaeunhee98@gmail.com**
 
